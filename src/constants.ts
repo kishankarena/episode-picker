@@ -1,0 +1,1 @@
+export const URL = 'https://api.tvmaze.com/shows/1?embed[]=episodes&embed[]=cast'
