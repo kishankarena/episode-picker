@@ -1,4 +1,4 @@
-import { Suspense, useContext, useEffect } from "react";
+import React, { Suspense, useContext, useEffect } from "react";
 import { URL } from "./constants";
 import { IAction, IEpisode, IEpisodeProps } from "./interfaces";
 import { store } from "./Store";
